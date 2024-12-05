@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "knowit-441711",
+  "private_key_id": "059ef3d718c23c65b856d33cbc851f4efa45dba9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCziqx1MD/bFi9+\nYsAKXoRHVPEViD7wQvSl0d5+I0EEFj7GWFQ+sDobVqKFojjFGdFoYQrqKnnbc2j4\nDfT44wxipKzM6tgP0x0b11jG1nQNlKLY1uA7JKk2b4y4SmpAzTJmZDJy6MeyC5cx\nhp2/In6C1w7hnijrvgmQG53Y+lG++mOEXHe//rA7PGdXNKhNy5/mIXmmzmlEUjbq\njtixQqr47vd5LSrTCzYngiurSWEixAk72t+VTKIuZR3FdwhfxicvknvB/DIwIyRC\n85aG9KXknwlLVq97hZhHjkn4c4rtUAjTMhhvXE/84p6LLmTpvo6p5jniZUmL1mwk\n/+4JurfTAgMBAAECggEAQ6fmBOMBrRVXIFEl/MJRJnAjyPFmhjM07aeAKBgwz9Fy\nJlvyowzVWKf05laS/fMUrjijXEpVURTUYWUhAwjMCf/z/eQhNxVeyrcDhSoa4WM5\nWmzeYmsWOKUgafHgyDqK23q2aAa/+Z/UgZ0wpG3jLnrL6Mkosm0SPXOqr7DkTQp7\n8TBJol7v3K8e6PGBaqqdftIMZvMcViZrTmjuU8gsOg79sRVRIXz+KsEeihm3EiJG\nfIoIl2avdPYwLqISmJKJ4iavC/UdGaMEIfSXqZO1TmewgqSX1RzMMdhoXjuRYYyq\n8M5k6R8Pj2l7+F0gI8Z905NDcx0Ne3kd34I6r+YygQKBgQDfHWHKz9ASP9ZVDYOb\nmjdDxc91RU0Yp0WmzY1I+bs2pDfO0UlYRSorIQQqC/jMn2vu+O2NneqFXk+KyMRS\nJS2sBVZ8otqynt6i2shqNT+E+98XsoUTJPB0DnoeyqnF2McqcZMDb/Y2bE1Pu+Ft\no732N41i0+wuchKE/w+C388cKwKBgQDOAS6kc7Ncw0RIRgnXaw7tJzVKXLNJYrjK\nR2vo0Ou2+3N958vqiGzdKydqaROy0zC0hUOtq5gcXEH4cQX1jwvkWj541UgMjwb+\n6LM960GJtXK/pl276o/SDhL8FvEqMyfLv6X9Honq+Y9NTEMs1frwlAEx4UWZ5Ior\nuTgLxiX2+QKBgB6lgItFJEV9c0lXg95ZvoGWqDppfH+Iam7RCTke5HJK+Ed2Q+bW\nCUbHUDUeU9x3gXHfy3GKYW5UWASuMxk9dhqM2SZhkDy8ycQA3UqJaeIwXqJ4qQLK\nLiUi3+9e0xcUAbd4xkLQnDc5hR0Qp5RRy4QIeWk7xtNSY+zUxCKr71zlAoGBAMJ2\nWTpCQfl6FrYG73lbhV6XGXYV5eSLfZbtLs86kJhN62rZ6iN+Hw30k6Oeh0rSk3KF\nLir+BXwYFupYfuCb5QTtr3VPGFFKnrb4oWL89gPxtd12RZuDQ7ptMLypR4Snf5SV\nWDKFpnmalQzJxcvIPrblb+9PEO3B0DCQCnkK1oG5AoGAIs/EkRp3LlKD18XiQLH+\nigieLpkGLjmQwU9V9RN4peKlAka5sj2xDUDR1z0TCE2q82/FdOVGRU2TGsPABhXf\nHyZKtlSiYvHnhRJK62HB6DDQh5B6VR7V5fWWU6NoDNFZckRt2o/9n5bTsIPKOaqx\nRh9j5KFBumO2cMCuW7tXHsA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "knowit@knowit-441711.iam.gserviceaccount.com",
+  "client_id": "118198513490901736405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/knowit%40knowit-441711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
